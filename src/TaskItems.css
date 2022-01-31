@@ -1,0 +1,14 @@
+.createdItems{
+    width: 20rem;
+    height: 3rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #323543;
+    margin: .5rem auto;
+    border-radius: .5rem;
+}
+.cheked{
+    text-decoration:line-through;
+}
